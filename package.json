@@ -1,5 +1,5 @@
 {
-  "name": "expense-tracker-mern",
+  "name": "expense-tracker-fstack",
   "version": "1.0.0",
   "description": "Backend for expense tracker",
   "main": "server.js",
